@@ -1,5 +1,19 @@
 # AngularMaterialBegin
 
+# Set Up:
+
+1- Pull from master branch.
+
+2- navigate trought the terminal command promp to project folder.
+
+3- npm install <-- to get all node_modules.
+
+4- ng serve <-- to start the server.
+
+5- hit http://localhost:4200/
+
+# AngularMaterialBegin
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 ## Development server
